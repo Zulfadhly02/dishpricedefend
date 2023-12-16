@@ -17,4 +17,4 @@ function myFlasherBuilder($message, $success = false, $failed = false)
         <div>' . $message . '</div>
         <button type="button" class="btn-close ms-auto p-2 bd-highlight" data-bs-dismiss="alert" aria-label="Close"></button>
     </div>');
-}
+} 
